@@ -37,6 +37,16 @@ This project is part of an initiative to publish legal instruments on blockchain
 
 The Freedom of the Nodes principle aims to protect the free and unconditional use of decentralized networks similarly to the use of the open oceans.
 
+## Why Do We Need Freedom of the Nodes?
+
+Just as two European kings once attempted to control the world's oceans, today's (mostly) European regulators are claiming jurisdiction over decentralized networks and blockchain transactions. This overreach violates fundamental rights to property and free exchange, imposing restrictions on technology that should remain available to all humanity.
+
+The Freedom of the Nodes principle recognizes that no single jurisdiction can claim authority over open, decentralized networks. It builds on the widely recognized international-law principle "Freedom of the Seas," arguing that these digital waterways must remain open for all to navigate freely, without discrimination or conditions.
+
+The Freedom of the Nodes principle applies four clear criteria to identify truly decentralized networks that should operate free from unwarranted regulation: they must contain native assets existing independently of any single jurisdiction, be governed by open-source code available for anyone to examine and improve, be sufficiently decentralized with no single controlling entity, and remain universally accessible to all people through standard consumer devices without special permission. When these criteria are met, no restrictions may be imposed on the use of these systems.
+
+[Read the full rationale behind the Freedom of the Nodes principle](assets/fotn-explanatory-article.pdf)
+
 ## Getting Started
 
 ### Display the Freedom of the Nodes on Your Website
@@ -57,6 +67,7 @@ See the [Integration Guide](./docs/INTEGRATION.md) for detailed instructions on 
 
 - **Ethereum Contract**: [0x4A4b427c7C5417e6C50999ab546064b751e0365b](https://etherscan.io/address/0x4A4b427c7C5417e6C50999ab546064b751e0365b)
 - **IPFS**: [bafkreigrzc2rxfwsklzr3ayrqwxnnubsmmzgwrotjhojpny4lxxi6rmyvi](https://ipfs.io/ipfs/bafkreigrzc2rxfwsklzr3ayrqwxnnubsmmzgwrotjhojpny4lxxi6rmyvi)
+- **PDF Version**: [freedom-of-the-nodes.pdf](assets/freedom-of-the-nodes.pdf)
 
 ## How to Contribute
 
@@ -66,6 +77,7 @@ We welcome contributions, especially official/professional translations of the F
 
 - **Freedom of the Nodes Text**: CC0 1.0 Universal - Public Domain Dedication
 - **Code (Frontend Integration)**: MIT License
+- **Explanatory Article**: CC BY-ND 4.0
 
 See the [LICENSE](LICENSE.md) file for details.
 
