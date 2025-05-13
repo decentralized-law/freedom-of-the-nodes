@@ -64,10 +64,11 @@ The implementation:
 See the [Integration Guide](./docs/INTEGRATION.md) for detailed instructions on adding this to your website.
 
 ## Live Deployments
-
+- **Official Site**: [decentralizedlaw.org/laws/fotn/](https://decentralizedlaw.org/laws/fotn/)
 - **Ethereum Contract**: [0x4A4b427c7C5417e6C50999ab546064b751e0365b](https://etherscan.io/address/0x4A4b427c7C5417e6C50999ab546064b751e0365b)
 - **IPFS**: [bafkreigrzc2rxfwsklzr3ayrqwxnnubsmmzgwrotjhojpny4lxxi6rmyvi](https://ipfs.io/ipfs/bafkreigrzc2rxfwsklzr3ayrqwxnnubsmmzgwrotjhojpny4lxxi6rmyvi)
 - **PDF Version**: [freedom-of-the-nodes.pdf](assets/freedom-of-the-nodes.pdf)
+- **Archive.org**: [archive.org/details/freedom-of-the-nodes](https://archive.org/details/freedom-of-the-nodes)
 
 ## How to Contribute
 
